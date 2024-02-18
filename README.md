@@ -1,3 +1,3 @@
 # AI-Algorithms
 
-Experimenting with Genetic and Local Search Algorithms
+Implementing a project using Genetic and Local Search Algorithms
